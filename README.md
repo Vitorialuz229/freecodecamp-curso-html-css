@@ -41,7 +41,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 -->
 ## Projetos 
 * CAT PHOTO APP
-  <img src="![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)"
+![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
 
 
 
@@ -134,7 +134,7 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 -->
 ## Projetos 
 * CAT PHOTO APP
-   <img src="![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)"
+![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
 
 ## 🔸 Baixe o Código
 
