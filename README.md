@@ -42,6 +42,8 @@ The topics are focused on specific concepts but here I have divided them into ma
 ## Projetos 
 * CAT PHOTO APP
   <img src="https://forum.freecodecamp.org/uploads/short-url/9bL9lW3iij1fZsa4UHeqouQjoap.png?dl=1">
+  ![maxresdefault](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/1db1b41b-0cd2-4675-8f44-8bd9e667d0f1)
+
 
 ## 🔸 Download the Code
 
