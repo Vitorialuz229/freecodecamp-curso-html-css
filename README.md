@@ -1,4 +1,4 @@
-# Learn HTML and CSS - Course From Scratch
+# FreeCodeCamp - Web Design Responsivo
 
 This repository contains the code for the course "Web Design Responsivo" created for freeCodeCamp.
 
@@ -84,7 +84,7 @@ The `index.html` files contain the HTML structure of the example. After download
 <br>
 <br>
 
-# Aprenda HTML e CSS - Curso do zero
+# FreeCodeCamp - Web Design Responsivo
 
 Este repositório contém o código do curso "Web Design Responsivo" criado para o freeCodeCamp.
 
