@@ -39,6 +39,10 @@ The topics are focused on specific concepts but here I have divided them into ma
 - HEX and RGB colors in CSS.
 - CSS variables.
 -->
+## Projetos 
+* CAT PHOTO APP
+  <img src="https://global.discourse-cdn.com/freecodecamp/original/4X/3/1/a/31a2c8fdef48fa511fc6ecd1fd94a6b6b462c0fd.png">
+
 ## 🔸 Download the Code
 
 In this repository you can download the initial HTML code of the examples presented during the course.
