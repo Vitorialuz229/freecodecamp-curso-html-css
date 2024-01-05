@@ -41,7 +41,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 -->
 ## Projetos 
 * CAT PHOTO APP
-  <img src="[https://global.discourse-cdn.com/freecodecamp/original/4X/3/1/a/31a2c8fdef48fa511fc6ecd1fd94a6b6b462c0fd.png](https://th.bing.com/th/id/OIP.qYh7jD9YdCmOgAkNht61SAHaEK?rs=1&pid=ImgDetMain)">
+  <img src="https://forum.freecodecamp.org/uploads/short-url/9bL9lW3iij1fZsa4UHeqouQjoap.png?dl=1">
 
 ## 🔸 Download the Code
 
@@ -130,6 +130,10 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 - Cores HEX e RGB em CSS.
 - Variáveis ​​CSS.
 -->
+## Projetos 
+* CAT PHOTO APP
+  <img src="https://forum.freecodecamp.org/uploads/short-url/9bL9lW3iij1fZsa4UHeqouQjoap.png?dl=1">
+
 ## 🔸 Baixe o Código
 
 Neste repositório você pode baixar o código HTML inicial dos exemplos apresentados durante o curso.
