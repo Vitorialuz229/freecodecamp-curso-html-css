@@ -24,7 +24,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 - `<div>` elements
 - Footer.
 - `<head>` element.
-<!--
+
 ### **CSS**
 - Introduction to CSS.
 - Inline styles, the `<style>` block and CSS files.
@@ -38,18 +38,14 @@ The topics are focused on specific concepts but here I have divided them into ma
 - Style priority.
 - HEX and RGB colors in CSS.
 - CSS variables.
--->
+
 ## Projetos 
 * CAT PHOTO APP
 ![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
 
+* CAFE MENU
 
 
-## 🔸 Download the Code
-
-In this repository you can download the initial HTML code of the examples presented during the course.
-
-The `index.html` files contain the HTML structure of the example. After downloading them, you can create a CSS file to style the elements as you progress through the course.
 
 -------
 <br>
@@ -117,7 +113,7 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 - elementos `<div>`
 - Rodapé.
 - elemento `<head>`.
-<!--
+
 ### **CSS**
 - Introdução ao CSS.
 - Estilos embutidos, o bloco `<style>` e arquivos CSS.
@@ -131,13 +127,10 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 - Prioridade de estilo.
 - Cores HEX e RGB em CSS.
 - Variáveis ​​CSS.
--->
+
 ## Projetos 
 * CAT PHOTO APP
 ![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
 
-## 🔸 Baixe o Código
+* CAFE MENU
 
-Neste repositório você pode baixar o código HTML inicial dos exemplos apresentados durante o curso.
-
-Os arquivos `index.html` contêm a estrutura HTML do exemplo. Depois de baixá-los, você pode criar um arquivo CSS para estilizar os elementos conforme avança no curso.
