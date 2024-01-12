@@ -41,10 +41,10 @@ The topics are focused on specific concepts but here I have divided them into ma
 
 ## Projetos 
 * CAT PHOTO APP
-![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
+<img width="376" alt="Cat photo App" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/6d05bfc7-02b9-4ae2-b5d7-b88383ca39af">
 
 * CAFE MENU
-<img alt="menu page for a café web page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/901a86f9-5360-4c1f-b0af-0f7726b86cb5">
+<img width="374" alt="Menu Page for cafe webpage" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/771ea649-b9d4-4a0e-bcef-7547b2d80942">
 -------
 <br>
 <br>
@@ -128,8 +128,9 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 
 ## Projetos 
 * CAT PHOTO APP
-![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
+<img width="376" alt="Aplicativo de Gatos" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/6d05bfc7-02b9-4ae2-b5d7-b88383ca39af">
 
 * CAFE MENU
-<img width="374" alt="página de menu para uma página da Web do café" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/901a86f9-5360-4c1f-b0af-0f7726b86cb5">
+<img width="374" alt="Menu para uma página web do café" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/771ea649-b9d4-4a0e-bcef-7547b2d80942">
+
 
