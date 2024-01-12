@@ -44,8 +44,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 ![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
 
 * CAFE MENU
-![Cafe Menu](image.png)
-
+<img width="374" alt="menu page for a café web page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/901a86f9-5360-4c1f-b0af-0f7726b86cb5">
 -------
 <br>
 <br>
@@ -132,5 +131,5 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 ![Cat photos](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7dd1ac6b-b703-4ec8-a119-0e7606ce5a70)
 
 * CAFE MENU
-![Cafe Menu](image.png)
+<img width="374" alt="página de menu para uma página da Web do café" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/901a86f9-5360-4c1f-b0af-0f7726b86cb5">
 
