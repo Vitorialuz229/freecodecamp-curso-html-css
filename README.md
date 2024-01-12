@@ -45,6 +45,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 
 * CAFE MENU
 <img width="374" alt="Menu Page for cafe webpage" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/771ea649-b9d4-4a0e-bcef-7547b2d80942">
+
 -------
 <br>
 <br>
@@ -134,3 +135,4 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 <img width="374" alt="Menu para uma página web do café" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/771ea649-b9d4-4a0e-bcef-7547b2d80942">
 
 
+-------
