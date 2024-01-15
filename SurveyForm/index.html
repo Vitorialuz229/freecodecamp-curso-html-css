@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-    <head charset="UTF-8">
+    <meta charset="utf-8">
     <title>Formulário de Pesquisa</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -18,7 +18,7 @@
                 <input type="text" name="name" id="name" placeholder="Seu nome" required>
             </label>
             <label for="email" id="email-label" required>Informe seu e-mail:
-                <input type="email" name="email" id="email" placeholder="Seu e-mail" />
+                <input type="email" name="email" id="email" placeholder="Seu e-mail" required/>
             </label>
             <label for="number" id="number-label" required>Informe um número para contato:
                 <input type="number" name="number" id="number" placeholder="Seu número" min="8" max="15" />
@@ -28,7 +28,7 @@
         <fieldset>
             <label for="dropdown">Satisfação geral:
                 <select id="dropdown" name="dropdown">
-                    <option value="">(selecione um)</option>
+                    <option value="vazio">(selecione um)</option>
                     <option value="1">Satisfeito</option>
                     <option value="2">Pouco Satisfeito</option>
                     <option value="3">Muito Satisfeito</option>
@@ -39,7 +39,7 @@
         <fieldset>
             <label for="dropdown">Probabilidade de recomendar:
                 <select id="dropdown" name="dropdown">
-                    <option value="">(selecione um)</option>
+                    <option value="vazio">(selecione um)</option>
                     <option value="1">1 até 3</option>
                     <option value="2">4 até 6</option>
                     <option value="3">7 até 9</option>
@@ -50,8 +50,8 @@
         <h2>Atendimento ao Cliente:</h2>
         <fieldset>
             <label for="dropdown"> Avaliação do atendimento:
-                <select id="dropdown" name="dropdown">
-                    <option value="">(selecione um)</option>
+                <select id="dropdown name="dropdown">
+                    <option value="vazio">(selecione um)</option>
                     <option value="1">Excelente</option>
                     <option value="2">Muito bom</option>
                     <option value="3">Bom</option>
@@ -59,41 +59,46 @@
                 </select>
             </label>
         </fieldset>
-        </label>
         <fieldset>
-            <fieldset for="bio">Algum membro da equipe se destacou? Compartilhe sua experiência.
-                <textarea id="bio" name="bio" rows="3" cols="30" placeholder="Descreva o que você gostou..."></textarea>
-                <label for="deliveryman"><input id="deliveryman" type="radio" class="inline" checked />
+            <fieldset for="destaque">Algum membro da equipe se destacou? Compartilhe sua experiência.
+                 <label for="deliveryman"><input id="deliveryman" type="radio" value="entregador" class="inline" name="staff" checked />
                     Entregador</label>
-                <label for="business-account"><input id="Attendant" type="radio" name="Attendant" class="inline" />
+                <label for="Attendant"><input id="Attendant" type="radio" value="atendente" name="staff" class="inline" />
                     Atendentes</label>
-        </label>
+                <textarea id="destaque" name="destaque" rows="3" cols="30" placeholder="Descreva o que você gostou..."></textarea>
+               
+            </fieldset>
+        </fieldset>
         <h2>Experiência do Produto/Serviço:</h2>
         <fieldset>
             <label for="check-acc">Quais produtos você consumiu?</label><br>
-            <input type="checkbox" name="check-acc" id="check-acc-batata" value="">
+            <input type="checkbox" name="check-acc" id="check-acc-batata" value="BatataFrita">
             <label for="check-acc-batata">Batata Frita</label><br>
-            <input type="checkbox" name="check-acc" id="check-acc-tt" value="Refri">
+            <input type="checkbox" name="check-acc" id="check-acc-tt" value="Refrigerante">
             <label for="check-acc-tt">Refrigerante</label><br>
-            <input type="checkbox" name="check-acc" id="check-acc-burguer" value="burguer">
+            <input type="checkbox" name="check-acc" id="check-acc-burguer" value="Hamburguer">
             <label for="check-acc-burguer">Hamburguer</label><br>
-            <input type="checkbox" name="check-acc" id="check-acc-suco" value="suco">
+            <input type="checkbox" name="check-acc" id="check-acc-suco" value="Suco">
             <label for="check-acc-suco">Suco</label><br>
-            <input type="checkbox" name="check-acc" id="check-acc-ot" value="ot">
+            <input type="checkbox" name="check-acc" id="check-acc-ot" value="Outras">
             <label for="check-acc-ot">Outras</label>
         </fieldset>
         <fieldset>
-            <label for="dropdown"> Qualidade do produto/serviço:
+            <label for="dropdown4"> Qualidade do produto/serviço:
                 <select id="dropdown" name="dropdown">
-                    <option value="">(selecione um)</option>
+                    <option value="vazio">(selecione um)</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
                     <option value="4">4</option>
-                    <option value="4">5</option>
+                    <option value="5">5</option>
                 </select>
             </label>
         </fieldset>
+        <fieldset>
+            <input type="submit" value="Enviar" id="submit">
+
+            </fieldset>
     </form>
 </body>
 
