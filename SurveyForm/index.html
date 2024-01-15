@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <head charset="UTF-8">
+    <title>Formulário de Pesquisa</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <h1 id="title">Pesquisa de Satisfação do Cliente - Seu Feedback Importa!</h1>
+    <p id="description">Queremos melhorar ainda mais e contamos com sua opinião. Por favor, reserve alguns minutos para
+        responder a algumas perguntas rápidas.</p>
+    <h2>Informações Básicas</h2>
+    <form id="survey-form">
+        <fieldset>
+            <label for="name" id="name-label"> Informe seu nome:
+                <input type="text" name="name" id="name" placeholder="Seu nome" required>
+            </label>
+            <label for="email" id="email-label" required>Informe seu e-mail:
+                <input type="email" name="email" id="email" placeholder="Seu e-mail" />
+            </label>
+            <label for="number" id="number-label" required>Informe um número para contato:
+                <input type="number" name="number" id="number" placeholder="Seu número" min="8" max="15" />
+            </label>
+        </fieldset>
+        <h2>Avaliação Geral:</h2>
+        <fieldset>
+            <label for="dropdown">Satisfação geral:
+                <select id="dropdown" name="dropdown">
+                    <option value="">(selecione um)</option>
+                    <option value="1">Satisfeito</option>
+                    <option value="2">Pouco Satisfeito</option>
+                    <option value="3">Muito Satisfeito</option>
+                    <option value="4">Nem um pouco Satisfeito</option>
+                </select>
+            </label>
+        </fieldset>
+        <fieldset>
+            <label for="dropdown">Probabilidade de recomendar:
+                <select id="dropdown" name="dropdown">
+                    <option value="">(selecione um)</option>
+                    <option value="1">1 até 3</option>
+                    <option value="2">4 até 6</option>
+                    <option value="3">7 até 9</option>
+                    <option value="4">10</option>
+                </select>
+            </label>
+        </fieldset>
+        <h2>Atendimento ao Cliente:</h2>
+        <fieldset>
+            <label for="dropdown"> Avaliação do atendimento:
+                <select id="dropdown" name="dropdown">
+                    <option value="">(selecione um)</option>
+                    <option value="1">Excelente</option>
+                    <option value="2">Muito bom</option>
+                    <option value="3">Bom</option>
+                    <option value="4">Insatisfatório</option>
+                </select>
+            </label>
+        </fieldset>
+        </label>
+        <fieldset>
+            <fieldset for="bio">Algum membro da equipe se destacou? Compartilhe sua experiência.
+                <textarea id="bio" name="bio" rows="3" cols="30" placeholder="Descreva o que você gostou..."></textarea>
+                <label for="deliveryman"><input id="deliveryman" type="radio" class="inline" checked />
+                    Entregador</label>
+                <label for="business-account"><input id="Attendant" type="radio" name="Attendant" class="inline" />
+                    Atendentes</label>
+        </label>
+        <h2>Experiência do Produto/Serviço:</h2>
+        <fieldset>
+            <label for="check-acc">Quais produtos você consumiu?</label><br>
+            <input type="checkbox" name="check-acc" id="check-acc-batata" value="">
+            <label for="check-acc-batata">Batata Frita</label><br>
+            <input type="checkbox" name="check-acc" id="check-acc-tt" value="Refri">
+            <label for="check-acc-tt">Refrigerante</label><br>
+            <input type="checkbox" name="check-acc" id="check-acc-burguer" value="burguer">
+            <label for="check-acc-burguer">Hamburguer</label><br>
+            <input type="checkbox" name="check-acc" id="check-acc-suco" value="suco">
+            <label for="check-acc-suco">Suco</label><br>
+            <input type="checkbox" name="check-acc" id="check-acc-ot" value="ot">
+            <label for="check-acc-ot">Outras</label>
+        </fieldset>
+        <fieldset>
+            <label for="dropdown"> Qualidade do produto/serviço:
+                <select id="dropdown" name="dropdown">
+                    <option value="">(selecione um)</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="4">5</option>
+                </select>
+            </label>
+        </fieldset>
+    </form>
+</body>
+
+</html>
