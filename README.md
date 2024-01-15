@@ -46,6 +46,9 @@ The topics are focused on specific concepts but here I have divided them into ma
 * CAFE MENU
 <img width="374" alt="Menu Page for cafe webpage" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/771ea649-b9d4-4a0e-bcef-7547b2d80942">
 
+* COLORED MARKERS
+<img width="397" alt="Set of colored markers" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/80ab3180-a41e-41c6-945e-70e3e786f769">
+
 -------
 <br>
 <br>
@@ -134,5 +137,7 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 * CAFE MENU
 <img width="374" alt="Menu para uma página web do café" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/771ea649-b9d4-4a0e-bcef-7547b2d80942">
 
+* MARCADORES COLORIDOS
+<img width="397" alt="Conjunto de marcadores coloridos" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/50ab4f38-0831-4a82-973d-9c1bdf5e05d6">
 
 -------
