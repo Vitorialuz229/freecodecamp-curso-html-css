@@ -51,6 +51,9 @@ The topics are focused on specific concepts but here I have divided them into ma
 
 * REGISTRATION FORM
 <img width="384" alt="Signup Page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
+![Registration Form](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/398f3e4f-8172-43ef-9ce1-e397dc94a062)
+
+*  SURVEY FORM
 
 -------
 <br>
@@ -145,5 +148,9 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 
 * FORMULARIO DE REGISTRO
 <img width="384" alt="Página de inscrição" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
+
+* FORMULARIO DE PESQUISA
+<img width="384" alt="Signup Page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
+![Formulário de Pesquisa](https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/398f3e4f-8172-43ef-9ce1-e397dc94a062)
 
 -------
