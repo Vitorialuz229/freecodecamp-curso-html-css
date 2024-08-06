@@ -49,7 +49,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 * COLORED MARKERS
 <img width="397" alt="Set of colored markers" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/80ab3180-a41e-41c6-945e-70e3e786f769">
 
-* REGISTRATION FORM
+*  SURVEY FORM
 <img width="384" alt="Signup Page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
 
 -------

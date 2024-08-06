@@ -36,7 +36,10 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c8a298b05f872159d79341c02cefb362ecd45df5
 label {
     display: block;
     margin-bottom: 5px;
@@ -44,14 +47,21 @@ label {
 
 
 input[type="checkbox"] {
+<<<<<<< HEAD
     margin-right: 5px;
+=======
+    margin-right: 5px; 
+>>>>>>> c8a298b05f872159d79341c02cefb362ecd45df5
 }
 
 label:hover {
     cursor: pointer;
     text-decoration: underline;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c8a298b05f872159d79341c02cefb362ecd45df5
 input,
 textarea,
 select {
@@ -103,4 +113,8 @@ input[type="submit"]:hover {
 #deliveryman {
     display: inline-block;
     margin-right: 10px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c8a298b05f872159d79341c02cefb362ecd45df5
