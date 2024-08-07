@@ -54,8 +54,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 <img width="384" alt="Signup Page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
 
 * ROTHKO PAINTING
-<img width=384px src="![Captura de tela 2024-08-06 213534](https://github.com/user-attachments/assets/050542ae-ad18-4a7f-a265-b922fd486796)
-">
+<img width=384px src="https://github.com/user-attachments/assets/050542ae-ad18-4a7f-a265-b922fd486796">
 
 -------
 
