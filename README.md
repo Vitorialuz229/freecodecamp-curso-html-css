@@ -38,6 +38,7 @@ The topics are focused on specific concepts but here I have divided them into ma
 - Style priority.
 - HEX and RGB colors in CSS.
 - CSS variables.
+- CSS BOX.
 
 ## Projetos 
 * CAT PHOTO APP
@@ -52,7 +53,11 @@ The topics are focused on specific concepts but here I have divided them into ma
 *  SURVEY FORM
 <img width="384" alt="Signup Page" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
 
+* ROTHKO PAINTING
+<img width=384px src="![Modelo de Caixa](image.png)">
+
 -------
+
 <br>
 <br>
 <br>
@@ -132,6 +137,7 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 - Prioridade de estilo.
 - Cores HEX e RGB em CSS.
 - Variáveis ​​CSS.
+- Box CSS.
 
 ## Projetos 
 * CAT PHOTO APP
@@ -145,5 +151,8 @@ Os tópicos são focados em conceitos específicos, mas aqui os dividi em catego
 
 * FORMULARIO DE REGISTRO
 <img width="384" alt="Página de inscrição" src="https://github.com/Vitorialuz229/freecodecamp-curso-html-css/assets/110250731/7401c8ce-9013-4cd3-9d0e-7000e1f3f5b8">
+
+* PINTURA DE ROTHKO
+<img width=384px src="![Modelo de Caixa](image.png)">
 
 -------
