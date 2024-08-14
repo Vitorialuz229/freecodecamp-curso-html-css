@@ -100,8 +100,9 @@ The topics are focused on specific concepts but here I have divided them into ma
 
 # FreeCodeCamp - Web Design Responsivo
 
-Este repositório contém o código do curso "Web Design Responsivo" criado para o freeCodeCamp.
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+Este repositório contém o código do curso "Web Design Responsivo" criado para o freeCodeCamp.
 
 ## 🔹 Conteúdo
 
